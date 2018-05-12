@@ -1,5 +1,8 @@
 _repo: Comrades-of-the-Saddle--Or-The-Young-Rough-Riders-of-the-Plains_11890
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Webster, Frank V.
@@ -7,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1955
 description: Young boys experience life on a cattle ranch, including encounters with
   wolves and bears.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11890#Comrades-of-the-Saddle--Or-The-Young-Rough-Riders-of-the-Plains
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
